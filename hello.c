@@ -11,7 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Noah Hudson\n");
-  printf("Undeclared/Undecided"\n);
+  printf("Undeclared/Undecided\n");
 
   return 0;
 }
